@@ -1,0 +1,11 @@
+Part 2: Explore Options in the unittest Framework
+
+What unittest class do you use to create an individual unit of testing?
+Class unittest yang digunakan untuk membuat unit testing adalah class bernama TestCase
+
+How does the test runner know which methods are a test?
+Dengan cara menamai method yang ingin ditest dengan awalan test_
+
+What command will list all of the command line options for unittest shown in the following output?
+python3 -m unittest -h
+
